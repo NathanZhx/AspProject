@@ -7839,27 +7839,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nathan\\.nuget\\packages\\": {}
+    "C:\\Users\\xiong\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\AspProject.csproj",
+      "projectUniqueName": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\AspProject.csproj",
       "projectName": "AspProject",
-      "projectPath": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\AspProject.csproj",
-      "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-      "outputPath": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\obj\\",
+      "projectPath": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\AspProject.csproj",
+      "packagesPath": "C:\\Users\\xiong\\.nuget\\packages\\",
+      "outputPath": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\xiong\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

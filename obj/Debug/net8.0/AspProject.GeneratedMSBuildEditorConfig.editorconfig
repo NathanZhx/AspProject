@@ -17,123 +17,123 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AspProject
 build_property.RootNamespace = AspProject
-build_property.ProjectDir = D:\InVancouver\FduCourse\2024VU-CSCI_6844_V1 Programming for the Internet\Webdev\AspMvcWithBootstrapWeb\AspProject\
+build_property.ProjectDir = D:\old-pc\fdu\23fall\24summer\6844-internet programming\AspProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\InVancouver\FduCourse\2024VU-CSCI_6844_V1 Programming for the Internet\Webdev\AspMvcWithBootstrapWeb\AspProject
+build_property.MSBuildProjectDirectory = D:\old-pc\fdu\23fall\24summer\6844-internet programming\AspProject
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Cart/Create.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Cart/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Cart/Delete.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Cart/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Cart/Details.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Cart/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Cart/Edit.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Cart/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Cart/Index.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Comment/Create.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Comment/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Comment/Delete.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Comment/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Comment/Details.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Comment/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Comment/Edit.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Comment/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Comment/Index.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Comment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Home/Cart.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Home/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Home/Checkout.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Home/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Home/Contact.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Home/Index.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Home/Page404.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Home/Page404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlNDA0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Home/Shop.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Home/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Home/ShopDetail.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Home/ShopDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Home/Testimonial.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Home/Testimonial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0aW1vbmlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Product/Create.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Product/Delete.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Product/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Product/Details.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Product/Edit.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Product/Index.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Shared/Error.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/_ViewImports.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/_ViewStart.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/InVancouver/FduCourse/2024VU-CSCI_6844_V1 Programming for the Internet/Webdev/AspMvcWithBootstrapWeb/AspProject/Views/Shared/_Layout.cshtml]
+[D:/old-pc/fdu/23fall/24summer/6844-internet programming/AspProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-eotav1xo8r

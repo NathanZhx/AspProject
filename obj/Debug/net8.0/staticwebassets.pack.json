@@ -1,467 +1,467 @@
 {
   "Files": [
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspProject.bundle.scp.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspProject.bundle.scp.css",
       "PackagePath": "staticwebassets\\AspProject.bundle.scp.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\css\\site.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\css\\style.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\favicon.ico",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\avatar.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\avatar.jpg",
       "PackagePath": "staticwebassets\\img\\avatar.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\baner-1.png",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\baner-1.png",
       "PackagePath": "staticwebassets\\img\\baner-1.png"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\banner-fruits.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\banner-fruits.jpg",
       "PackagePath": "staticwebassets\\img\\banner-fruits.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\best-product-1.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\best-product-1.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-1.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\best-product-2.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\best-product-2.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-2.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\best-product-3.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\best-product-3.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-3.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\best-product-4.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\best-product-4.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-4.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\best-product-5.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\best-product-5.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-5.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\best-product-6.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\best-product-6.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-6.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\cart-page-header-img.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\cart-page-header-img.jpg",
       "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\featur-1.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\featur-1.jpg",
       "PackagePath": "staticwebassets\\img\\featur-1.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\featur-2.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\featur-2.jpg",
       "PackagePath": "staticwebassets\\img\\featur-2.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\featur-3.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\featur-3.jpg",
       "PackagePath": "staticwebassets\\img\\featur-3.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\fruite-item-1.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\fruite-item-1.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-1.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\fruite-item-2.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\fruite-item-2.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-2.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\fruite-item-3.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\fruite-item-3.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-3.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\fruite-item-4.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\fruite-item-4.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-4.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\fruite-item-5.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\fruite-item-5.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-5.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\fruite-item-6.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\fruite-item-6.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-6.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\hero-img-1.png",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\hero-img-1.png",
       "PackagePath": "staticwebassets\\img\\hero-img-1.png"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\hero-img-2.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\hero-img-2.jpg",
       "PackagePath": "staticwebassets\\img\\hero-img-2.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\hero-img.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\hero-img.jpg",
       "PackagePath": "staticwebassets\\img\\hero-img.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\payment.png",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\payment.png",
       "PackagePath": "staticwebassets\\img\\payment.png"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\single-item.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\single-item.jpg",
       "PackagePath": "staticwebassets\\img\\single-item.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\testimonial-1.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\vegetable-item-1.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\vegetable-item-1.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-1.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\vegetable-item-2.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\vegetable-item-2.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-2.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\vegetable-item-3.png",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\vegetable-item-3.png",
       "PackagePath": "staticwebassets\\img\\vegetable-item-3.png"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\vegetable-item-4.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\vegetable-item-4.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-4.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\vegetable-item-5.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\vegetable-item-5.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-5.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\img\\vegetable-item-6.jpg",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\img\\vegetable-item-6.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-6.jpg"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\js\\main.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\js\\site.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\easing\\easing.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\easing\\easing.min.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
       "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\lightbox\\images\\close.png",
       "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\lightbox\\images\\loading.gif",
       "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\lightbox\\images\\next.png",
       "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\lightbox\\images\\prev.png",
       "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
       "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\owlcarousel"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\waypoints\\links.php",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "D:\\InVancouver\\FduCourse\\2024VU-CSCI_6844_V1 Programming for the Internet\\Webdev\\AspMvcWithBootstrapWeb\\AspProject\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Id": "D:\\old-pc\\fdu\\23fall\\24summer\\6844-internet programming\\AspProject\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
     },
     {
