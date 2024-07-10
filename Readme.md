@@ -8,8 +8,10 @@ dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design --version 8.
 dotnet ef database update
 
 ## 生成表数据：
-打开那个sql server management studio， 选择products表， 执行下面的命令，插入测试数据
+**打开那个sql server management studio， 选择products表， 执行下面的命令，插入测试数据**
 
+**products表**
+```
 USE [StoreDb]
 GO
 
@@ -27,19 +29,66 @@ VALUES
 ('Kiwi', 'Tangy and sweet kiwi', 'A small and fuzzy kiwi, packed with vitamins and a unique flavor.', 19.99, 'https://picsum.photos/200/300?fruit=kiwi');
 GO
 
+```
+
+**先删除comments表，然后建重新建表，然后插入测试数据**
+```
+USE [StoreDb]
+GO
+
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[comments]') AND type in (N'U'))
+DROP TABLE [dbo].[comments]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[comments](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Name] [nvarchar](max) NOT NULL,
+	[AvatarUrl] [nvarchar](max) NULL,
+	[Score] [int] NOT NULL,
+	[Content] [nvarchar](max) NULL,
+ CONSTRAINT [PK_comments] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+USE [StoreDb]
+GO
+
 INSERT INTO [comments] ([Name], [AvatarUrl], [Score], [Content])
 VALUES
-(1, 'https://randomuser.me/api/portraits/men/1.jpg', 5, 'Great product, highly recommend!'),
-(2, 'https://randomuser.me/api/portraits/women/2.jpg', 4, 'Good quality, but delivery was slow.'),
-(3, 'https://randomuser.me/api/portraits/men/3.jpg', 3, 'Average experience, nothing special.'),
-(4, 'https://randomuser.me/api/portraits/women/4.jpg', 2, 'Not very satisfied with the product.'),
-(5, 'https://randomuser.me/api/portraits/men/5.jpg', 1, 'Terrible experience, will not buy again.'),
-(6, 'https://randomuser.me/api/portraits/women/6.jpg', 5, 'Excellent customer service and fast delivery.'),
-(7, 'https://randomuser.me/api/portraits/men/7.jpg', 4, 'Product is good, but packaging could be better.'),
-(8, 'https://randomuser.me/api/portraits/women/8.jpg', 3, 'It is okay, met my expectations.'),
-(9, 'https://randomuser.me/api/portraits/men/9.jpg', 2, 'Product quality is not as described.'),
-(10, 'https://randomuser.me/api/portraits/women/10.jpg', 1, 'Very disappointed with the purchase.');
+('Alice Johnson', 'https://randomuser.me/api/portraits/women/1.jpg', 5, 'Excellent product! Highly recommend.'),
+('Bob Smith', 'https://randomuser.me/api/portraits/men/2.jpg', 4, 'Very good quality, will buy again.'),
+('Catherine Brown', 'https://randomuser.me/api/portraits/women/3.jpg', 3, 'Average product, okay for the price.'),
+('David Williams', 'https://randomuser.me/api/portraits/men/4.jpg', 2, 'Not very satisfied with the product.'),
+('Emily Davis', 'https://randomuser.me/api/portraits/women/5.jpg', 1, 'Terrible experience, will not buy again.'),
+('Frank Miller', 'https://randomuser.me/api/portraits/men/6.jpg', 5, 'Amazing quality and fast delivery.'),
+('Grace Wilson', 'https://randomuser.me/api/portraits/women/7.jpg', 4, 'Good product, but the packaging could be better.'),
+('Henry Moore', 'https://randomuser.me/api/portraits/men/8.jpg', 3, 'It’s fine, meets my expectations.'),
+('Isabella Taylor', 'https://randomuser.me/api/portraits/women/9.jpg', 2, 'Not as described, quite disappointed.'),
+('Jack Anderson', 'https://randomuser.me/api/portraits/men/10.jpg', 1, 'Poor quality, would not recommend.'),
+('Karen Thomas', 'https://randomuser.me/api/portraits/women/11.jpg', 5, 'Absolutely love it, fantastic purchase.'),
+('Leo Harris', 'https://randomuser.me/api/portraits/men/12.jpg', 4, 'Really good, but could be improved.'),
+('Mia Lewis', 'https://randomuser.me/api/portraits/women/13.jpg', 3, 'It’s okay, nothing special.'),
+('Nathan Clark', 'https://randomuser.me/api/portraits/men/14.jpg', 2, 'Below average, not happy with it.'),
+('Olivia Walker', 'https://randomuser.me/api/portraits/women/15.jpg', 1, 'Awful, do not recommend.'),
+('Paul Hall', 'https://randomuser.me/api/portraits/men/16.jpg', 5, 'Perfect, exactly what I wanted.'),
+('Quinn Allen', 'https://randomuser.me/api/portraits/men/17.jpg', 4, 'Very good, will order again.'),
+('Rachel King', 'https://randomuser.me/api/portraits/women/18.jpg', 3, 'It’s okay, decent value for money.'),
+('Steve Wright', 'https://randomuser.me/api/portraits/men/19.jpg', 2, 'Not satisfied, expected better.'),
+('Tina Scott', 'https://randomuser.me/api/portraits/women/20.jpg', 1, 'Worst purchase ever, very disappointing.');
+GO
+```
 
+**carts表**
+```
 INSERT INTO [carts] ([ProductId], [Quantity])
 VALUES
 (1, 2),
@@ -53,7 +102,7 @@ VALUES
 (9, 2),
 (10, 3);
 GO
-
+```
 
 ## 我电脑安装sqlserver包失败, 运行了下面命令解决了:
 dotnet remove package System.Windows.Extensions

@@ -69,9 +69,9 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Testimonial()
+    public async Task<IActionResult> Testimonial()
     {
-        return View();
+        return View(await _context.comments.ToListAsync());
     }
 
     public IActionResult Page404()

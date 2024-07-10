@@ -495,3 +495,14 @@
 }
 /*** Footer End ***/
 
+/*** Homepage: set the product image to square ***/
+.square-image {
+    width: 100%;
+    height: 300px;
+}
+
+.square-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
