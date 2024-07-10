@@ -158,8 +158,10 @@
                                 {
                                     <div class="col-md-6 col-lg-4 col-xl-3">
                                         <div class="rounded position-relative fruite-item">
-                                            <div class="fruite-img square-image">
-                                                <a asp-controller="Home" asp-action="ShopDetail" asp-route-id="@item.Id" target="_blank">
+
+                                            <div class="fruite-img">
+                                                <!--a asp-controller="Home" asp-action="ShopDetail" asp-route-id="@item.Id" target="_blank"-->
+                                                <a asp-controller="Home" asp-action="ShopDetail" asp-route-id="@item.Id">
                                                     <img src="@Html.DisplayFor(modelItem => item.ImageUrl)"
                                                         class="img-fluid rounded-top" alt="">
                                                 </a>

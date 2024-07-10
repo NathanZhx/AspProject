@@ -115,4 +115,7 @@ dotnet aspnet-codegenerator controller -name CommentController -m Comment -dc Ap
 dotnet aspnet-codegenerator controller -name CartController -m Cart -dc AppDbContext --useDefaultLayout --referenceScriptLibraries 
 
 ## 数据连接：
-修改 ConnectionStrings 连接字符串到自己的数据库
+修改appsettings.json中的 ConnectionStrings 连接字符串到自己的数据库
+
+## Email功能：
+修改appsettings.json中的 EmailConfig 相关配置
