@@ -1,4 +1,7 @@
-@model IEnumerable<Product>
+@using X.PagedList.Mvc.Core
+@using X.PagedList
+
+@model IPagedList<Product>
 
 @{
     ViewData["Title"] = "Fruitables - Vegetable Website";
@@ -228,17 +231,16 @@
                                 </div>
                             }
                             <div class="col-12">
-                                <div class="pagination d-flex justify-content-center mt-5">
-                                    <a href="#" class="rounded">&laquo;</a>
-                                    <a href="#" class="active rounded">1</a>
-                                    <a href="#" class="rounded">2</a>
-                                    <a href="#" class="rounded">3</a>
-                                    <a href="#" class="rounded">4</a>
-                                    <a href="#" class="rounded">5</a>
-                                    <a href="#" class="rounded">6</a>
-                                    <a href="#" class="rounded">&raquo;</a>
+                                <div class="d-flex justify-content-center mt-5">
+                                    @Html.PagedListPager(Model, page => Url.Action("Shop", new { page }), new PagedListRenderOptions
+                                    {
+                                        UlElementClasses = new[]{"pagination"},
+                                        LiElementClasses = new[] { "page-item" },
+                                        PageClasses = new[] { "page-link" }
+                                    })
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>

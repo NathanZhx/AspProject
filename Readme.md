@@ -119,3 +119,6 @@ dotnet aspnet-codegenerator controller -name CartController -m Cart -dc AppDbCon
 
 ## Email功能：
 修改appsettings.json中的 EmailConfig 相关配置
+
+## 分页功能：
+dotnet add package X.PagedList.Mvc.Core

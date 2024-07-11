@@ -10,6 +10,7 @@ using Microsoft.EntityFrameworkCore;
 using MailKit;
 using MailKit.Net.Smtp;
 using MimeKit;
+using X.PagedList;
 
 namespace AspProject.Controllers;
 
@@ -57,9 +58,14 @@ public class HomeController : Controller
         return View(product);
     }
 
-    public async Task<IActionResult> Shop()
+    public async Task<IActionResult> Shop(int? page)
     {
-        return View(await _context.products.ToListAsync());
+        int pageSize = 9;
+        int pageNumber = page ?? 1;
+
+        var products = await _context.products.ToPagedListAsync(pageNumber, pageSize);
+
+        return View(products);
     }
 
     public IActionResult Cart()
