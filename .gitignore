@@ -1,7 +1,7 @@
 # Build directories
 bin/
 obj/
-appsettings.json
+# appsettings.json
 AspProject.sln
 
 # User-specific files
