@@ -57,9 +57,9 @@ public class HomeController : Controller
         return View(product);
     }
 
-    public IActionResult Shop()
+    public async Task<IActionResult> Shop()
     {
-        return View();
+        return View(await _context.products.ToListAsync());
     }
 
     public IActionResult Cart()
