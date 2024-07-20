@@ -29,7 +29,7 @@
                 </div>
                 <div class="col-lg-12">
                     <div class="h-100 rounded">
-                        <iframe class="rounded w-100" 
+                        <iframe class="rounded w-100"
                         style="height: 400px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2602.931277730178!2d-123.12042090808076!3d49.27769939735186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486717db8c59d41%3A0x413e16318a0f2ecc!2s842%20Cambie%20St%2C%20Vancouver%2C%20BC%20V6B%202P6%2C%20Canada!5e0!3m2!1sen!2sus!4v1720555274534!5m2!1sen!2sus" 
                         loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
@@ -38,7 +38,7 @@
                     <div><h3>@ViewBag.Message</h3></div>
                     <form method="post" asp-controller="Home" asp-action="SendEmail" class="">
                         <input type="email" class="w-100 form-control border-0 py-3 mb-4" asp-for="ToEmailAddress" placeholder="Your Email">
-                        <input type="text" class="w-100 form-control border-0 py-3 mb-4" asp-for="Subject" placeholder="Subject">                        
+                        <input type="text" class="w-100 form-control border-0 py-3 mb-4" asp-for="Subject" placeholder="Subject">
                         <textarea class="w-100 form-control border-0 mb-4" rows="5" cols="10" asp-for="EmailBodyMessage" placeholder="Your Message"></textarea>
                         <button class="w-100 btn form-control border-secondary py-3 bg-white text-primary " type="submit">Send Email</button>
                     </form>

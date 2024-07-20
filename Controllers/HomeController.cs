@@ -35,11 +35,19 @@ public class HomeController : Controller
         return View(await _context.products.ToListAsync());
     }
 
+    [HttpPost]
+    public async Task<IActionResult> Index(IFormCollection form)
+    {
+        string name = form["searchname"];
+        IQueryable<Product> query = _context.products;
 
-    // public IActionResult ShopDetail()
-    // {
-    //     return View();
-    // }
+        if (!string.IsNullOrEmpty(name))
+        {
+            query = query.Where(e => e.Name.Contains(name));
+        }
+
+        return View(await query.ToListAsync());
+    }
 
     public async Task<IActionResult> ShopDetail(int? id)
     {

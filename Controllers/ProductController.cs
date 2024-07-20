@@ -28,6 +28,20 @@ namespace AspProject
             return View(await _context.products.ToListAsync());
         }
 
+        [HttpPost]
+        public async Task<IActionResult> Index(IFormCollection form)
+        {
+            string name = form["searchname"];
+            IQueryable<Product> query = _context.products;
+
+            if (!string.IsNullOrEmpty(name))
+            {
+                query = query.Where(e => e.Name.Contains(name));
+            }
+
+            return View(await query.ToListAsync());
+        }
+  
         // GET: Product/Details/5
         public async Task<IActionResult> Details(int? id)
         {
@@ -44,7 +58,7 @@ namespace AspProject
             }
 
             return View(product);
-        }
+        }        
 
         //GET: Product/Create
         public IActionResult Create()
